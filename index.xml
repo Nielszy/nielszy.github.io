@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://nielszy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://nielszy.github.io/posts/firstpost/</link>
+      <link>https://nielszy.github.io/posts/niels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nielszy.github.io/posts/firstpost/</guid>
+      <guid>https://nielszy.github.io/posts/niels/</guid>
+      <description>Mooi werk! Hier een stukje code</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nielszy.github.io/posts/wessel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nielszy.github.io/posts/wessel/</guid>
       <description>Hi Wessel! </description>
     </item>
     
