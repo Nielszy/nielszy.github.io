@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nielszy.github.io/tags/arista/</loc>
+  </url><url>
+    <loc>https://nielszy.github.io/posts/arista_validated_designs_journey/</loc>
+  </url><url>
+    <loc>https://nielszy.github.io/tags/avd/</loc>
+  </url><url>
+    <loc>https://nielszy.github.io/categories/</loc>
+  </url><url>
     <loc>https://nielszy.github.io/</loc>
   </url><url>
-    <loc>https://nielszy.github.io/agenda/</loc>
+    <loc>https://nielszy.github.io/posts/</loc>
+  </url><url>
+    <loc>https://nielszy.github.io/tags/</loc>
   </url>
 </urlset>

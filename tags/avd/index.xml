@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AVD on Networking Nielszy</title>
+    <link>https://nielszy.github.io/tags/avd/</link>
+    <description>Recent content in AVD on Networking Nielszy</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://nielszy.github.io/tags/avd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arista Validated Designs Journey</title>
+      <link>https://nielszy.github.io/posts/arista_validated_designs_journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nielszy.github.io/posts/arista_validated_designs_journey/</guid>
+      <description>To be continued&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
