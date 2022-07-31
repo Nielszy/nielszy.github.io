@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://nielszy.github.io/sitemap.xml
